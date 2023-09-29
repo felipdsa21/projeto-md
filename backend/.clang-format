@@ -1,0 +1,6 @@
+BasedOnStyle: LLVM
+AlignAfterOpenBracket: BlockIndent
+ColumnLimit: 110
+ContinuationIndentWidth: 2
+IndentWidth: 2
+InsertBraces: true

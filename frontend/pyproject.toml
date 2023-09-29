@@ -1,0 +1,9 @@
+[tool.black]
+preview = true
+skip-magic-trailing-comma = true
+
+[tool.mypy]
+strict = true
+
+[tool.isort]
+profile = "black"
